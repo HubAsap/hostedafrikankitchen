@@ -1,0 +1,69 @@
+
+
+body {
+font-family: 'Inter', sans-serif !important;
+}
+
+.icon-container{
+  height: 50px;
+  width: 50px;
+}
+
+.small-font-size{
+  font-size: 12px;
+}
+
+.feather-16{
+  width: 16px;
+  height: 16px;
+}
+
+.pl{
+  padding-left: 20px;
+}
+
+.plr{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.flr{
+  float: right;
+}
+
+.form-item-height{
+  height: 50px;
+}
+
+a.active {
+  border-bottom: 4px solid #D4464C;
+}
+
+.nav-link {
+  color: rgb(110, 110, 110);
+  font-weight: 500;
+}
+.nav-link:hover {
+  color: #D4464C;
+}
+
+.nav-pills .nav-link.active {
+  color: black;
+  background-color: white;
+  border-radius: 0.5rem 0.5rem 0 0;
+  font-weight: 600;
+}
+
+.custom-muted-text{
+  color: #555555;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+
+td {
+  height: 50px;
+  vertical-align: center;
+}
