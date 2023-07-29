@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hostedafrikankitchen/static/css/main.7d91dc4a.css",
+    "main.js": "/hostedafrikankitchen/static/js/main.81f165bc.js",
+    "static/js/703.2a961bc0.chunk.js": "/hostedafrikankitchen/static/js/703.2a961bc0.chunk.js",
+    "static/js/148.07bcedc1.chunk.js": "/hostedafrikankitchen/static/js/148.07bcedc1.chunk.js",
+    "static/js/787.bdff1648.chunk.js": "/hostedafrikankitchen/static/js/787.bdff1648.chunk.js",
+    "index.html": "/hostedafrikankitchen/index.html",
+    "main.7d91dc4a.css.map": "/hostedafrikankitchen/static/css/main.7d91dc4a.css.map",
+    "main.81f165bc.js.map": "/hostedafrikankitchen/static/js/main.81f165bc.js.map",
+    "703.2a961bc0.chunk.js.map": "/hostedafrikankitchen/static/js/703.2a961bc0.chunk.js.map",
+    "148.07bcedc1.chunk.js.map": "/hostedafrikankitchen/static/js/148.07bcedc1.chunk.js.map",
+    "787.bdff1648.chunk.js.map": "/hostedafrikankitchen/static/js/787.bdff1648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d91dc4a.css",
+    "static/js/main.81f165bc.js"
+  ]
+}
